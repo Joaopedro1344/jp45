@@ -1,0 +1,38 @@
+/* Estilo da seção principal */
+.main-section {
+    padding: 20px; /* Espaçamento interno */
+  }
+  
+  /* Estilo dos parágrafos de texto */
+  .main-section p {
+    font-size: 18px; /* Tamanho da fonte */
+    color: #333; /* Cor do texto (cinza escuro) */
+    line-height: 1.6; /* Altura da linha */
+    margin-bottom: 20px; /* Margem inferior */
+  }
+  
+  /* Estilo das imagens */
+  .main-section img {
+    max-width: 100%; /* Largura máxima da imagem */
+    height: auto; /* Altura automática para manter a proporção */
+    display: block; /* Exibir como bloco para centralização */
+    margin: 0 auto 20px; /* Margem automática nas laterais e inferior */
+  }
+  
+  /* Estilo dos links */
+  .main-section a {
+    color: #FFA500; /* Cor do link (laranja) */
+    text-decoration: none; /* Remover sublinhado padrão */
+  }
+  
+  .main-section a:hover {
+    text-decoration: underline; /* Sublinhar ao passar o mouse */
+  }
+  
+  /* Estilo dos títulos */
+  .main-section h2 {
+    font-size: 24px; /* Tamanho da fonte */
+    color: #2E2E2E; /* Cor do texto (cinza escuro) */
+    margin-bottom: 20px; /* Margem inferior */
+  }
+  

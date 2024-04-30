@@ -1,0 +1,181 @@
+/* Estilos gerais */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9; /* Cor de fundo geral */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+}
+
+p {
+    margin-top: 0;
+    line-height: 1.6;
+}
+
+/* Estilos para o cabeçalho */
+
+header {
+    background-color: #4CAF50; /* Cor de fundo do cabeçalho */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilos para o rodapé */
+
+footer {
+    background-color: #333; /* Cor de fundo do rodapé */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Estilos para os botões */
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Cor do botão */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #45a049; /* Cor do botão ao passar o mouse */
+}
+
+/* Estilos para as seções */
+
+.section {
+    margin-bottom: 40px;
+}
+
+.section-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.section-content {
+    line-height: 1.6;
+}
+
+/* Estilos para a seção de produtos */
+
+.product {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.product img {
+    margin-bottom: 10px;
+}
+
+.product-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.product-price {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.product-description {
+    margin-top: 10px;
+}
+
+/* Estilos para o formulário de contato */
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.contact-form textarea {
+    height: 150px;
+}
+
+.contact-form input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-form input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+/* Estilo padrão do botão */
+.button {
+    background-color: #FFA500; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    padding: 10px 20px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Raio da borda */
+    cursor: pointer; /* Cursor do mouse */
+    transition: background-color 0.3s ease; /* Transição suave da cor de fundo */
+  }
+  
+  /* Estilo do botão ao passar o mouse */
+  .button:hover {
+    background-color: #FFD700; /* Cor de fundo do botão ao passar o mouse */
+  }
+  
+/* Estilo padrão do botão */
+.button {
+    background-color: #FFA500; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    padding: 10px 20px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Raio da borda */
+    cursor: pointer; /* Cursor do mouse */
+    transition: background-color 0.3s ease; /* Transição suave da cor de fundo */
+  }
+  
+  /* Estilo do botão ao passar o mouse */
+  .button:hover {
+    background-color: #FFD700; /* Cor de fundo do botão ao passar o mouse */
+  }
+  
+
+

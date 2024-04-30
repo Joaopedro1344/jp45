@@ -1,0 +1,27 @@
+/* Estilo do cabeçalho */
+header {
+    background-color: #F7E806; /* Cor de fundo amarelo */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento centralizado */
+  }
+  
+  /* Estilo do título do cabeçalho */
+  header h1 {
+    font-size: 36px; /* Tamanho da fonte */
+    color: #2E2E2E; /* Cor do texto (cinza escuro) */
+  }
+  
+  /* Estilo do subtítulo do cabeçalho */
+  header h2 {
+    font-size: 24px; /* Tamanho da fonte */
+    color: #2E2E2E; /* Cor do texto (cinza escuro) */
+    margin-top: 10px; /* Margem superior */
+  }
+  
+  /* Estilo do logotipo do cabeçalho */
+  header img.logo {
+    width: 100px; /* Largura do logotipo */
+    height: auto; /* Altura automática para manter a proporção */
+    margin-bottom: 10px; /* Margem inferior */
+  }
+  
